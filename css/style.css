@@ -90,17 +90,14 @@
     padding: 4px;
  }
 
-
-
-
-
-
  nav {
-    /* position: fixed; */
+     position: fixed;
+     z-index: 2; 
     width: 100%;
-    background-color: black;
+    background-color: #222222;
     height: 90px;
     display: flex;
+    bottom: 0vh;
     justify-content: space-between;
 
  }
