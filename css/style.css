@@ -24,11 +24,16 @@
     padding-right: 10px;
     
     background-color: black;
-    color: white;
     
 }
 
 
+.nav-top .top-button{
+    padding: 5px;
+    background-color: gray;
+    border-radius: 6px;
+    color: white;
+}
 
 #cards-container {
     
@@ -79,6 +84,10 @@
     bottom: 4px;
     left: 0px;
 
+ }
+
+ .col .tag .unmute {
+    padding: 4px;
  }
 
 
